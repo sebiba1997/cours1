@@ -10,6 +10,11 @@ Welcome to TP's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+faq
+guides
+referentiels
+tutoriels
+
 
 
 Indices and tables
