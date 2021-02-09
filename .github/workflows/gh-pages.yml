@@ -7,6 +7,7 @@ on:
    - master # <- ... mais seulement sur la branche "master"
   jobs:
    # Notre job
+   
    build-and-deploy:
     runs-on: ubuntu-latest
    # Tâches à effectuer, comme expliquées ci-dessus
