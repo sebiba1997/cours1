@@ -9,11 +9,11 @@ Welcome to TP's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-faq
-guides
-referentiels
-tutoriels
+   
+   faq
+   guides
+   referentiels
+   tutoriels
 
 
 
