@@ -28,7 +28,7 @@ author = 'Hector Sutre, Paul Pavillard, Augustin Griesser, Florian Monteuil, Sé
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'recommonmark'
+    "sphinx.ext.githubpages", 'recommonmark'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
