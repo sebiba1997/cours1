@@ -6,6 +6,8 @@
 Welcome to TP's documentation!
 ==============================
 
+.. inclue:: ../README.rst
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
