@@ -14,8 +14,7 @@ Welcome to TP's documentation!
    guides
    referentiels
    tutoriels
-
-
+   calculator.rst
 
 Indices and tables
 ==================
@@ -24,6 +23,8 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+
+
 ReadMe.rst
 ==================
-.. include:: ../README.rst
+.. include:: ./../README.rst

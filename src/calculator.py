@@ -13,17 +13,35 @@ def add(x, y):
    return x + y
 
 def subtract(x, y):
-   """This function subtracts two numbers"""
+   """Cette fonction soustrait deux nombres et retourne la différence de ces derniers.
+   
+   :param int x: Premier nombre
+   :param int y: Second nombre
+   
+   :returns: Différence entre les deux nommbres
+   :rtype: int"""
 
    return x - y
 
 def multiply(x, y):
-   """This function multiplies two numbers"""
+   """Cette fonction multiplie deux nombres et retourne la multiplication de ces derniers.
+   
+   :param int x: Premier nombre
+   :param int y: Second nombre
+   
+   :returns: Multiplication des deux nommbres
+   :rtype: int"""
 
    return x * y
 
 def divide(x, y):
-   """This function divides two numbers"""
+   """Cette fonction divise deux nombres et retourne la quotient de ces derniers.
+   
+   :param int x: Premier nombre
+   :param int y: Second nombre
+   
+   :returns: Quotient des deux nommbres
+   :rtype: float"""
 
    return x / y
 
