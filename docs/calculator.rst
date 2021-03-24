@@ -1,4 +1,4 @@
 Calculatrice
 ===========
 
-.. autofunction:: ../src/calculator.add
+.. autofunction:: ./../src/calculator.add
