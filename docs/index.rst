@@ -14,6 +14,7 @@ Welcome to TP's documentation!
    guides
    referentiels
    tutoriels
+   calculator.rst
 
 Indices and tables
 ==================
