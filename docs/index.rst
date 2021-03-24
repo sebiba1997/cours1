@@ -6,10 +6,6 @@
 Welcome to TP's documentation!
 ==============================
 
-ReadMe.rst
-==================
-.. include:: ./../README.rst
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -19,13 +15,13 @@ ReadMe.rst
    referentiels
    tutoriels
 
-ReadMe.rst
-==================
-.. include:: ../README.rst
-
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+ReadMe.rst
+==================
+.. include:: ./../README.rst
