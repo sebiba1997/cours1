@@ -2,7 +2,7 @@
 
 # define functions
 def add(x, y):
-   """Cette fonction additionne deux nombres et retourne la somme de ces derniers.
+   """Cette fonction additionne deux nombres et retourne la somme de ces derniers. Test
    
    :param int x: Premier nombre
    :param int y: Second nombre
